@@ -1,4 +1,8 @@
 # Yggdrasil Linux/GNU/X
+## First Alpha Release Coming Soon!
+The first alpha release of Yggdrasil Linux/GNU/X is coming soon!
+
+Please be patient, compiling everything takes quite a long time.
 ## Contributors Welcome!
 This project is looking for contributors. If you are interested in contributing, please read the [contributing guidelines](https://github.com/Yggdrasil-LGX/Yggdrasil-LGX/blob/main/CONTRIBUTING.md) and the [to-do list](https://github.com/Yggdrasil-LGX/Yggdrasil-LGX/blob/main/docs/todo.md).
 ## History of Yggdrasil Linux/GNU/X
