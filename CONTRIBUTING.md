@@ -13,4 +13,6 @@ If you are a developer, you can contribute by:
 - Fixing bugs
 - Adding features
 
+and help out on things in the [to-do list](docs/todo.md).
+
 These can be done by submitting a pull request [here](https://github.com/Yggdrasil-LGX/Yggdrasil-LGX/pulls).
