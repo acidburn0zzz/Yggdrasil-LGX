@@ -1,6 +1,6 @@
 # Yggdrasil Linux/GNU/X Specifications
 ## System
-- Linux Kernel Version: 5.16
+- Linux Kernel Version: 6.0-rc5
 - Bootloader: GNU GRUB 2.06
 - Init System: OpenRC
 ## Desktop
